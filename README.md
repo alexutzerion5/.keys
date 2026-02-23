@@ -27,6 +27,6 @@ It is designed for:
 Run the script **directly from GitHub**:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/NaysKutzu/.keys/refs/heads/main/setup.bash | sudo bash
+curl -fsSL https://raw.githubusercontent.com/alexutzerion5/.keys/refs/heads/main/setup.bash | sudo bash
 ```
 
